@@ -1,0 +1,30 @@
+{
+  "name": "generic-token-erc20-implementation",
+  "version": "1.0.0",
+  "description": "A generic ERC-20 token implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Vandalious/generic-token-ERC20-implementation"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "cryptocurreny",
+    "hardhat",
+    "solidity",
+    "javascript",
+    "ERC-20",
+    "ERC20",
+    "token"
+  ],
+  "author": "Vandalious",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
+}
